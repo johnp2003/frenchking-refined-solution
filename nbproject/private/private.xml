@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/johnp/NetBeansProjects/DesignPatternRefinedSolution/src/designpatternrefinedsolution/Payment.java</file>
+            <file>file:/C:/Users/johnp/NetBeansProjects/DesignPatternRefinedSolution/src/designpatternrefinedsolution/SmallFries.java</file>
+            <file>file:/C:/Users/johnp/NetBeansProjects/DesignPatternRefinedSolution/src/designpatternrefinedsolution/FriesFactory.java</file>
+            <file>file:/C:/Users/johnp/NetBeansProjects/DesignPatternRefinedSolution/src/designpatternrefinedsolution/Fries.java</file>
+            <file>file:/C:/Users/johnp/NetBeansProjects/DesignPatternRefinedSolution/src/designpatternrefinedsolution/LargerFries.java</file>
+            <file>file:/C:/Users/johnp/NetBeansProjects/DesignPatternRefinedSolution/src/designpatternrefinedsolution/MediumFries.java</file>
+            <file>file:/C:/Users/johnp/NetBeansProjects/DesignPatternRefinedSolution/src/designpatternrefinedsolution/Client.java</file>
+            <file>file:/C:/Users/johnp/NetBeansProjects/DesignPatternRefinedSolution/src/designpatternrefinedsolution/FriesDecorator.java</file>
+            <file>file:/C:/Users/johnp/NetBeansProjects/DesignPatternRefinedSolution/src/designpatternrefinedsolution/PaymentStrategy.java</file>
+        </group>
+    </open-files>
+</project-private>
